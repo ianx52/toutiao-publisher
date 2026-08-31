@@ -8,7 +8,7 @@
 
 **文章写好后的执行环节 = 配图生成 + 排版优化 + 一键发布。**
 
-- 配图生成：用做图skill（ian-illustration-master v3.0.1）给文章画插画和封面图
+- 配图生成：用做图skill（ian-illustration-master v3.1.0）给文章画插画和封面图
 - 排版优化：用排版skill（ian-typography-master v2.0.0）做好文章排版，降低阅读门槛
 - 一键发布：成功发布到头条平台，确保排版和配图不丢失
 
